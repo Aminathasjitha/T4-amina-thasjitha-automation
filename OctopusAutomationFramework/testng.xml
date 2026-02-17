@@ -1,0 +1,13 @@
+<suite name="Octopus Suite">
+
+    <test name="Generator Test">
+
+        <classes>
+
+            <class name="tests.GeneratorEndToEndTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
